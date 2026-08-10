@@ -1,0 +1,8 @@
+Patient_ID,Name,Age,Disease,Days_Admitted,Bill_Amount
+101,Ali Khan,25,Fever,3,5000.0
+102,Sara Ahmed,34,Diabetes,7,15000.0
+103,Usman Malik,45,BP,5,12000.0
+104,Ayesha Bibi,22,Fever,2,4000.0
+105,Zainab,60,Arthritis,10,25000.0
+106,Atif,23,Fever,1,1000.0
+107,Asim,19,BP,2,2500.0
